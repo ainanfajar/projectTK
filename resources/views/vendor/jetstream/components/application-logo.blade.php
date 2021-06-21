@@ -1,0 +1,1 @@
+<img class="inline w-24" src=" {{ URL::to('/assets/img/logo.png') }}" />
